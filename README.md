@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there, I'm Pedro Viana 👋
+  
+<img height="100rem" src="original.gif"><br>
 
-<!--
-**pedrovian4/pedrovian4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 😁 Pronouns: he/his 
+- 🐱‍🏍 fun fact: I have a cat called mimi 
+- 💻 Computer Science Student
+- 🍭 Math and Physics lover
+- 💥 I'm always watching some anime
+- 🌹 I'm looking for be a software  engineer
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <div>
+    <a hrf="https://github.com/pedrovian4 ">
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api?username=pedrovian4&theme=outrun&show_icons=true)">
+    <br>
+    <img height="150rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovian4&theme=outrun&layout=compact">
+  </div>
