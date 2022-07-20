@@ -8,7 +8,15 @@
 - 🍭 Math and Physics lover
 - 💥 I'm always watching some anime
 - 🌹 I'm looking for be a software  engineer
-  
+- 💥 Studying
+  - PHP
+  - Python
+  - Postgres
+  - Docker
+  - Laravel
+  - Python
+  - MVC
+  - Advanced Data Scructure and Algorithm Complexity
 
 
 <center>
