@@ -16,7 +16,7 @@
   - Laravel
   - Python
   - MVC
-  - Advanced Data Scructure and Algorithm Complexity
+  - Advanced Data Structure and Algorithms Complexity
 
 
 <center>
