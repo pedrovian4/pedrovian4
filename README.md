@@ -10,12 +10,9 @@
 - 🌹 I'm looking for be a software  engineer
 - 💥 Studying
   - PHP
-  - Python
+  - Laravel
   - Postgres
   - Docker
-  - Laravel
-  - Python
-  - MVC
   - Advanced Data Structure and Algorithms Complexity
 
 
