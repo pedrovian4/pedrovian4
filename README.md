@@ -9,6 +9,7 @@
 - 💥 I'm always watching some anime
 - 🌹 I'm looking for be a software  engineer
 - 💥 Studying
+  - Go
   - PHP
   - Laravel
   - Postgres
