@@ -7,14 +7,8 @@
 - 💻 Computer Science Student
 - 🍭 Math and Physics lover
 - 💥 I'm always watching some anime
-- 🌹 I'm looking for be a software  engineer
-- 💥 Studying
-  - Go
-  - PHP
-  - Laravel
-  - Postgres
-  - Docker
-  - Advanced Data Structure and Algorithms Complexity
+- 🌹 I'm looking for be a software  enginee
+
 
 
 <center>
