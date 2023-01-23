@@ -11,6 +11,10 @@
 - 🌹 I'm looking for be a software  enginee
 
 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovian4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <center>
   
   
