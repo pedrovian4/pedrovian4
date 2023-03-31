@@ -13,8 +13,7 @@
 
   
 #### 🎵 Playing
-<center>
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ggfby6qa2tycghhcxvskpqq&cover_image=true&theme=compact)](https://github.com/kittinan/spotify-github-profile)  
-</center>
+
 
   
