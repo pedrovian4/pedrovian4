@@ -8,7 +8,6 @@
 - 🍭 Math and Physics lover
 - 💥 I'm always watching some anime
 - 🌹 PHP, Go and JS Developer
-- 🌹 I'm looking for be a software  enginee
 
 
 
