@@ -7,7 +7,7 @@
 - 💻 Computer Science Student
 - 🍭 Math and Physics lover
 - 💥 I'm always watching some anime
-- 🌹 PHP, Go and JS Developer
+- 🌹 PHP & TS/JS Bacnkend Developer
 
 
 
