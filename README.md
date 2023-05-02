@@ -2,12 +2,7 @@
   
 <img height="100rem" src="original.gif"><br>
 
-- 😁 Pronouns: he/his 
-- 🐱‍🏍 fun fact: I lov cats
-- 💻 Computer Science Student
-- 🍭 Math and Physics lover
-- 💥 I'm always watching some anime
-- 🌹 PHP, TS/JS & Python Backend Developer
+
 
 
 
