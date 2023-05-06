@@ -7,6 +7,7 @@
  🐘 PHP Fanboy 🐘\
  🐈‍ Cat Fan 🐈‍⬛\
  🇧🇷 I live in Brazil 🇧🇷\
+ ⛴️ I'm a fullstack developer⛴️\
 <hr>
 
 <a href= "https://www.linkedin.com/in/pedro-viana/">
