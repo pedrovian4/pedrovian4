@@ -1,7 +1,7 @@
 ## 👋 Pedro Viana 👋
 
 #### About me
-👨‍🦲 HE/HIM 👨‍🦲
+👨‍🦲 HE/HIM 👨‍🦲\
 💻 Computer Science student 💻\
 ➕ Math enthusiast ➕\
 🐧 Linuxer 🐧\
