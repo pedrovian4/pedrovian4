@@ -5,7 +5,7 @@
 ### About Me
 - 👨‍🦲 **Pronouns:** He/Him 
 - 🐧 Linux enthusiast
-- ⚙️ Software Enginner  
+- ⚙️ Software Engineer  
 - ❓ Ask me about: IoT and Backend Development
 
 <hr>
