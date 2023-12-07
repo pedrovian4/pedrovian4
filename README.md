@@ -4,26 +4,18 @@
 
 ### About Me
 - 👨‍🦲 **Pronouns:** He/Him 
-- 💻 **Studies:** Computer Science student
-- ➕ **Passions:** Mathematics
-- 🐧 **OS Preference:** Linux enthusiast
-- 🐘 **Programming:** Avid PHP developer
-- 🐈‍⬛ **Pets:** Cat lover
-- 🇧🇷 **Home:** Living in Brazil
-- ⛴️ **Profession:** Fullstack developer
+- 🐧 Linux enthusiast
+- ⚙️ Software Enginner  
+- ❓ Ask me about: IoT and Backend Development
 
 <hr>
 
 ### Expertise & Skills
-- **Cloud Technologies:** AWS
-- **Containerization:** Docker
-- **Automation:** Ansible
-- **Back-end Development:** PHP, Laravel, Lumen, Symfony
-- **Microservices:** Flask, FastAPI, Chalice
-- **Data Analysis:** Python for Statistics and Data Science
-- **Databases:** Expertise in PL/SQL and PostgreSQL, but also knowledgeable in MySQL and MongoDB
-- **Server Management:** Linux servers (Debian-based), Nginx, VPC servers
-
+- **Back-end Development:** PHP, Go,  Python.
+- **Frameworks**:  Laravel, Lumen, Symfony, Flask, FastAPI, Chalice
+- **IOT** : QEMU, TinyGo, C++, ESP-IDF
+- **Cloud**: AWS
+- **Else**: Docker & K8 
 <hr>
 
 ### Connect with Me
