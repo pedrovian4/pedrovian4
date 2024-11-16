@@ -5,7 +5,7 @@
 ### About Me
 - 👨‍🦲 **Pronouns:** He/Him 
 - 🐧 Linux enthusiast
-- I use Arch btw
+- 🐧 I use Arch btw
 - ⚙️ Software Engineer  
 - ❓ Ask me about: IoT and Backend Development
 
