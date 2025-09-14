@@ -6,17 +6,12 @@
 - 👨‍🦲 **Pronouns:** He/Him 
 - 🐧 Linux enthusiast
 - 🐧 I use Arch btw
-- ⚙️ Software Engineer  
-- ❓ Ask me about: IoT and Backend Development
+- ⚙️ Software Engineer 
 
 <hr>
-
 ### Expertise & Skills
-- **Back-end Development:** PHP, Go,  Python.
-- **Frameworks**:  Laravel, Lumen, Symfony, Flask, FastAPI, Chalice
-- **IOT** : QEMU, TinyGo, C++, ESP-IDF
-- **Cloud**: AWS
-- **Else**: Docker & K8 
+- Back-end, frontend & Servers Managements  
+
 <hr>
 
 ### Connect with Me
